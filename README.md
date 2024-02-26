@@ -21,8 +21,6 @@ El objetivo principal de este estudio es determinar qué clientes tienen más pr
 Esperamos obtener un modelo preciso y confiable que pueda predecir con precisión qué clientes tienen más probabilidades de abandonar la empresa en el próximo año. Esto permitirá a la empresa tomar medidas proactivas para retener a esos clientes y mejorar su retención a largo plazo.
 
 ## Colaboradores
-- [Nombre del Colaborador 1]
-- [Nombre del Colaborador 2]
-- [Nombre del Colaborador 3]
+- AIQUBE LABS, S.L
 
-¡Bienvenidos a bordo! Siéntanse libres de contribuir con ideas, sugerencias y mejoras en cualquier etapa del proyecto.
+
