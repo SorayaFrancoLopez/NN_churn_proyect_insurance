@@ -22,5 +22,6 @@ Esperamos obtener un modelo preciso y confiable que pueda predecir con precisió
 
 ## Colaboradores
 - AIQUBE LABS, S.L
+- Software QS S.L.
 
 
